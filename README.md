@@ -17,11 +17,11 @@
     <a href="https://twitter.com/umbrel">
       <img src="https://img.shields.io/twitter/follow/umbrel?style=social" />
     </a>
-    <a href="https://t.me/getumbrel">
+    <a href="https://t.me/GabrielCopper">
       <img src="https://img.shields.io/badge/community-chat-%235351FB">
     </a>
-    <a href="https://reddit.com/r/getumbrel">
-      <img src="https://img.shields.io/reddit/subreddit-subscribers/getumbrel?style=social">
+    <a href="https://reddit.com/r/GabrielCopper">
+      <img src="https://img.shields.io/reddit/subreddit-subscribers/GabrielCopper?style=social">
     </a>
     <a href="https://community.umbrel.com">
       <img src="https://img.shields.io/badge/community-forum-%235351FB">
@@ -50,7 +50,7 @@
 
 ## Demo
 
-https://github.com/getumbrel/llama-gpt/assets/10330103/5d1a76b8-ed03-4a51-90bd-12ebfaf1e6cd
+https://github.com/GabrielCopper/llama-gpt/assets/10330103/5d1a76b8-ed03-4a51-90bd-12ebfaf1e6cd
 
 ## Supported models
 
@@ -80,7 +80,7 @@ Make sure your have Docker and Xcode installed.
 Then, clone this repo and `cd` into it:
 
 ```
-git clone https://github.com/getumbrel/llama-gpt.git
+git clone https://github.com/GabrielCopper/llama-gpt.git
 cd llama-gpt
 ```
 
@@ -104,7 +104,7 @@ You can run LlamaGPT on any x86 or arm64 system. Make sure you have Docker insta
 Then, clone this repo and `cd` into it:
 
 ```
-git clone https://github.com/getumbrel/llama-gpt.git
+git clone https://github.com/GabrielCopper/llama-gpt.git
 cd llama-gpt
 ```
 
@@ -221,7 +221,7 @@ Feel free to add your own benchmarks to this table by opening a pull request.
 
 ## Roadmap and contributing
 
-We're looking to add more features to LlamaGPT. You can see the roadmap [here](https://github.com/getumbrel/llama-gpt/issues/8#issuecomment-1681321145). The highest priorities are:
+We're looking to add more features to LlamaGPT. You can see the roadmap [here](https://github.com/GabrielCopper/llama-gpt/issues/8#issuecomment-1681321145). The highest priorities are:
 
 - [x] Moving the model out of the Docker image and into a separate volume.
 - [x] Add Metal support for M1/M2 Macs.
@@ -230,7 +230,7 @@ We're looking to add more features to LlamaGPT. You can see the roadmap [here](h
 - [ ] Add ability to load custom models.
 - [ ] Allow users to switch between models.
 
-If you're a developer who'd like to help with any of these, please open an issue to discuss the best way to tackle the challenge. If you're looking to help but not sure where to begin, check out [these issues](https://github.com/getumbrel/llama-gpt/labels/good%20first%20issue) that have specifically been marked as being friendly to new contributors.
+If you're a developer who'd like to help with any of these, please open an issue to discuss the best way to tackle the challenge. If you're looking to help but not sure where to begin, check out [these issues](https://github.com/GabrielCopper/llama-gpt/labels/good%20first%20issue) that have specifically been marked as being friendly to new contributors.
 
 ## Acknowledgements
 
@@ -246,6 +246,6 @@ A massive thank you to the following developers and teams for making LlamaGPT po
 
 ---
 
-[![License](https://img.shields.io/github/license/getumbrel/llama-gpt?color=%235351FB)](https://github.com/getumbrel/llama-gpt/blob/master/LICENSE.md)
+[![License](https://img.shields.io/github/license/GabrielCopper/llama-gpt?color=%235351FB)](https://github.com/GabrielCopper/llama-gpt/blob/master/LICENSE.md)
 
 [umbrel.com](https://umbrel.com)
